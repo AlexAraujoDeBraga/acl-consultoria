@@ -21,6 +21,10 @@ a.text-configuration:hover {
 	border-bottom: 3px solid black;
 }
 
+.toggle-menu{
+	color: #212121;
+}
+
 .span-texto{
 	padding-top: 40px;
 	font-size: 24pt;
